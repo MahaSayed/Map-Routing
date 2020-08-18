@@ -1,0 +1,38 @@
+﻿  Source.cpp
+c:\users\sayed\source\repos\project3\project3\reading.h(71): warning C4244: 'argument': conversion from 'long double' to 'const unsigned int', possible loss of data
+c:\users\sayed\source\repos\project3\project3\reading.h(72): warning C4244: 'argument': conversion from 'long double' to 'const unsigned int', possible loss of data
+c:\users\sayed\source\repos\project3\project3\nodesvalidator.h(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\sayed\source\repos\project3\project3\nodesvalidator.h(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\sayed\source\repos\project3\project3\nodesvalidator.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\sayed\source\repos\project3\project3\pathingr.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\sayed\source\repos\project3\project3\pathingr.h(29): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=long double
+          ]
+c:\users\sayed\source\repos\project3\project3\pathingr.h(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\sayed\source\repos\project3\project3\source.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\sayed\source\repos\project3\project3\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.15.26726\include\utility(172): warning C4244: 'initializing': conversion from 'long double' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+  c:\users\sayed\source\repos\project3\project3\reading.h(67): note: see reference to function template instantiation 'std::pair<int,int>::pair<long double&,long double&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=long double &,
+              _Other2=long double &
+          ]
+  c:\users\sayed\source\repos\project3\project3\reading.h(67): note: see reference to function template instantiation 'std::pair<int,int>::pair<long double&,long double&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=long double &,
+              _Other2=long double &
+          ]
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.15.26726\include\utility(173): warning C4244: 'initializing': conversion from 'long double' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+  Project3.vcxproj -> C:\Users\sayed\source\repos\Project3\Debug\Project3.exe

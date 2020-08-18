@@ -1,0 +1,62 @@
+﻿  Source.cpp
+c:\users\sayed\source\repos\algorithm_project\project3\reading.h(71): warning C4244: 'argument': conversion from 'long double' to 'const unsigned __int64', possible loss of data
+c:\users\sayed\source\repos\algorithm_project\project3\reading.h(72): warning C4244: 'argument': conversion from 'long double' to 'const unsigned __int64', possible loss of data
+c:\users\sayed\source\repos\algorithm_project\project3\pathing.h(30): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=long double
+          ]
+c:\users\sayed\source\repos\algorithm_project\project3\source.cpp(72): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\sayed\source\repos\algorithm_project\project3\source.cpp(79): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.15.26726\include\utility(172): warning C4244: 'initializing': conversion from 'long double' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+  c:\users\sayed\source\repos\algorithm_project\project3\reading.h(67): note: see reference to function template instantiation 'std::pair<int,int>::pair<long double&,long double&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=long double &,
+              _Other2=long double &
+          ]
+  c:\users\sayed\source\repos\algorithm_project\project3\reading.h(67): note: see reference to function template instantiation 'std::pair<int,int>::pair<long double&,long double&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=long double &,
+              _Other2=long double &
+          ]
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.15.26726\include\utility(173): warning C4244: 'initializing': conversion from 'long double' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.15.26726\include\utility(172): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          and
+          [
+              _Ty1=long double
+          ]
+  c:\users\sayed\source\repos\algorithm_project\project3\nodesvalidator.h(59): note: see reference to function template instantiation 'std::pair<long double,long double>::pair<unsigned __int64,long double&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=long double &
+          ]
+  c:\users\sayed\source\repos\algorithm_project\project3\nodesvalidator.h(59): note: see reference to function template instantiation 'std::pair<long double,long double>::pair<unsigned __int64,long double&,0>(_Other1 &&,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=unsigned __int64,
+              _Other2=long double &
+          ]
+  Project3.vcxproj -> C:\Users\sayed\source\repos\Algorithm_Project\x64\Debug\Algorithm_Project.exe
